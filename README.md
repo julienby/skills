@@ -96,4 +96,4 @@ Skills are a great way to teach Claude how to get better at using specific piece
 # Additional skills (UI / motion design)
 
 Imported from [emilkowalski/skills](https://github.com/emilkowalski/skills) (MIT, see [third-party/emilkowalski-skills-LICENSE](./third-party/emilkowalski-skills-LICENSE)):
-`emil-design-eng`, `animate`, `review-animations`, `improve-animations`, `find-animation-opportunities`, `animation-performance`, `animation-vocabulary`, `apple-design`, `break-ui`, `mobile-native`, `pick-ui-library`, `prototype`.
+`emil-design-eng`, `animate`, `review-animations`, `improve-animations`, `find-animation-opportunities`, `animation-performance`, `animation-vocabulary`, `apple-design`, `break-ui`, `mobile-native`, `prototype`.
