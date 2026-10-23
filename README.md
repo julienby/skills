@@ -92,3 +92,8 @@ The markdown content below contains the instructions, examples, and guidelines t
 Skills are a great way to teach Claude how to get better at using specific pieces of software. As we see awesome example skills from partners, we may highlight some of them here:
 
 - **Notion** - [Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)
+
+# Additional skills (UI / motion design)
+
+Imported from [emilkowalski/skills](https://github.com/emilkowalski/skills) (MIT, see [third-party/emilkowalski-skills-LICENSE](./third-party/emilkowalski-skills-LICENSE)):
+`emil-design-eng`, `animate`, `review-animations`, `improve-animations`, `find-animation-opportunities`, `animation-performance`, `animation-vocabulary`, `apple-design`, `break-ui`, `mobile-native`, `pick-ui-library`, `prototype`.
